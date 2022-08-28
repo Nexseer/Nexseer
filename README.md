@@ -13,5 +13,5 @@
 | --- | --- |
 | <img align="left" src="https://github-readme-stats.vercel.app/api?username=theRunCom&show_icons=true&count_private=true&theme=dracula" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRunCom&layout=compact&count_private=true&theme=dracula" /> |
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/theRunCom/Solutions-to-Codeforces)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theRunCom&repo=Solutions-to-Codeforces)](https://github.com/theRunCom/Solutions-to-Codeforces)
 
