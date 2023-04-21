@@ -2,8 +2,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/manjaro-00B5E2?style=flat&logo=manjaro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
 </p>
 
