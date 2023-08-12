@@ -4,9 +4,9 @@
 
 ## :book: About Me
 
-- 🖥  Passionate software developer
 - 🎓 Lifelong learner
-- 🌐 Metaverse believer
+- 🖥  Passionate developer and Excellent-driven engineer
+- 🌐 Metaverse believer and Artificial intelligence practitioner
 
 ## ⚡ GitHub About Me
 
