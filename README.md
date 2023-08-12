@@ -14,6 +14,3 @@
 | --- | --- |
 | <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theRunCom&show_icons=true&count_private=true&theme=highcontrast" /> | <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theRunCom&layout=compact&count_private=true&theme=highcontrast" /> |
 
-<p align = "center">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theRunCom&theme=github-compact">
-</p>
