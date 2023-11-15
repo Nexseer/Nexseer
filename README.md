@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm <i>theRunCom</i> 🌍</h1> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=22&pause=1000&center=true&vCenter=true&random=false&width=535&lines=The+unexamined+life+is+not+worth+living+%E2%8F%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=24&pause=1000&color=F64AF7&center=true&vCenter=true&random=false&width=635&lines=The+unexamined+life+is+not+worth+living+%E2%8F%B3+%E2%80%94%E2%80%94+Socrates)](https://git.io/typing-svg)
 
 ## :book: About Me
 
