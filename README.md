@@ -7,7 +7,3 @@
 - 🎓 Lifelong learner
 - 🖥  Passionate developer and Excellent-driven engineer
 - 🌐 Metaverse believer and Artificial intelligence practitioner
-
-## ⚡ GitHub About Me
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=theRunCom&theme=catppuccin-latte)](https://git.io/streak-stats)
