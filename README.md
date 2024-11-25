@@ -6,4 +6,4 @@
 
 - 🎓 Lifelong learner
 - 🖥️ Passionate developer and Innovative engineer
-- 🚀 Cutting-edge technology participants, such as blockchain, artificial intelligence, game development, cryptography, game theory, etc.
+- 🚀 Cutting-edge technology participants
