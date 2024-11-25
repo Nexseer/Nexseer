@@ -5,5 +5,5 @@
 ## 📌 About Me
 
 - 🎓 Lifelong learner
-- 🖥 Passionate developer and Excellent-driven engineer
-- 🌐 Metaverse believer and Artificial intelligence practitioner
+- 🖥️ Passionate developer and Innovative engineer
+- 🚀 Cutting-edge technology participants, such as blockchain, artificial intelligence, game development, cryptography, game theory, etc.
