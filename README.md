@@ -5,5 +5,5 @@
 ## 📌 About Me
 
 - 🎓 Lifelong learner
-- 🖥️ Passionate developer and Innovative engineer
 - 🚀 Cutting-edge technology participants
+- 🖥️ Passionate developer and Innovative engineer
